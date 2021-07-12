@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mikaggg/react-type.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/mikaggg/react-type.git/static/js/main.9cd80b0e.chunk.js",
-    "main.js.map": "/mikaggg/react-type.git/static/js/main.9cd80b0e.chunk.js.map",
-    "runtime-main.js": "/mikaggg/react-type.git/static/js/runtime-main.a0731121.js",
-    "runtime-main.js.map": "/mikaggg/react-type.git/static/js/runtime-main.a0731121.js.map",
-    "static/js/2.f42fb0fc.chunk.js": "/mikaggg/react-type.git/static/js/2.f42fb0fc.chunk.js",
-    "static/js/2.f42fb0fc.chunk.js.map": "/mikaggg/react-type.git/static/js/2.f42fb0fc.chunk.js.map",
-    "static/js/3.d1d6bc0e.chunk.js": "/mikaggg/react-type.git/static/js/3.d1d6bc0e.chunk.js",
-    "static/js/3.d1d6bc0e.chunk.js.map": "/mikaggg/react-type.git/static/js/3.d1d6bc0e.chunk.js.map",
-    "index.html": "/mikaggg/react-type.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/mikaggg/react-type.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f42fb0fc.chunk.js.LICENSE.txt": "/mikaggg/react-type.git/static/js/2.f42fb0fc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mikaggg/react-type.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-type/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-type/static/js/main.9cd80b0e.chunk.js",
+    "main.js.map": "/react-type/static/js/main.9cd80b0e.chunk.js.map",
+    "runtime-main.js": "/react-type/static/js/runtime-main.b9a20f4b.js",
+    "runtime-main.js.map": "/react-type/static/js/runtime-main.b9a20f4b.js.map",
+    "static/js/2.f42fb0fc.chunk.js": "/react-type/static/js/2.f42fb0fc.chunk.js",
+    "static/js/2.f42fb0fc.chunk.js.map": "/react-type/static/js/2.f42fb0fc.chunk.js.map",
+    "static/js/3.d1d6bc0e.chunk.js": "/react-type/static/js/3.d1d6bc0e.chunk.js",
+    "static/js/3.d1d6bc0e.chunk.js.map": "/react-type/static/js/3.d1d6bc0e.chunk.js.map",
+    "index.html": "/react-type/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-type/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f42fb0fc.chunk.js.LICENSE.txt": "/react-type/static/js/2.f42fb0fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-type/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0731121.js",
+    "static/js/runtime-main.b9a20f4b.js",
     "static/js/2.f42fb0fc.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.9cd80b0e.chunk.js"
